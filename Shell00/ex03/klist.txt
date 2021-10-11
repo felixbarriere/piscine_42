@@ -1,0 +1,5 @@
+Credentials cache: API:96255C47-D115-4FEA-A4CB-815813089E3D
+        Principal: fbarrier@42.FR
+
+  Issued                Expires               Principal
+Jun 29 13:58:51 2021  Jul  6 13:58:47 2021  krbtgt/42.FR@42.FR
